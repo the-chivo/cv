@@ -16,12 +16,12 @@ Futuro desarrollador multiplataforma con formación técnica centrada en el cicl
 ## EXPERIENCIA PROFESIONAL
 
 
-* **Camarero** | La Esquinita de Mari (Granada) | 6 meses
-* **Ayudante de Cocina** | Restaurante El Portugués (Murcia)  | 3 meses
+ **Camarero** | La Esquinita de Mari (Granada) | 6 meses
+ **Ayudante de Cocina** | Restaurante El Portugués (Murcia)  | 3 meses
     * Tareas: Friegaplatos, freidora, preelaboración y ensaladas.
-* **Ayudante de Cocina** | Restaurante Acapulco (Murcia)  | 1 meses
+ **Ayudante de Cocina** | Restaurante Acapulco (Murcia)  | 1 meses
     * Tareas: Plancha, friegaplatos y ensaladas.
-* **Peon agricola** | Hermanos Hortofructicolas Torres (Murcia) | campañas de verano
+ **Peon agricola** | Hermanos Hortofructicolas Torres (Murcia) | campañas de verano
 
 ## PROYECTOS
 
