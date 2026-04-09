@@ -15,6 +15,9 @@
 
 ## EXPERIENCIA PROFESIONAL
 
+
+## PROYECTOS
+
 ### Desarrollador Principal | "Entre Planos" (Desarrollo Independiente de Videojuegos)
 [cite_start]*2025 - Presente* [cite: 14]
 * [cite_start]Actualmente desarrollando un juego multiplataforma utilizando Unity. [cite: 15]
