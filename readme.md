@@ -1,10 +1,10 @@
 # Adrian Egea Torres
 
 ## CONTACTO
-* **Teléfono:** +34 694453996 [cite: 3]
-* [cite_start]**GitHub:** [the-chivo](https://github.com/the-chivo) [cite: 5]
-* [cite_start]**Correo:** adrianegeatorres@gmail.com [cite: 7]
-* [cite_start]**LinkedIn:** [adrian egea torres](https://www.linkedin.com/in/adrian-egea-torres) [cite: 9]
+* **Teléfono:** +34 694453996 
+* **GitHub:** [the-chivo](https://github.com/the-chivo)
+* **Correo:** adrianegeatorres@gmail.com 
+* **LinkedIn:** [adrian egea torres](https://www.linkedin.com/in/adrian-egea-torres-473703386/) 
 
 ---
 
