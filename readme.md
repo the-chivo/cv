@@ -9,42 +9,51 @@
 ---
 
 ## PERFIL PERSONAL
-[cite_start]Me enorgullezco de ser un trabajador diligente y eficiente, siempre buscando aumentar mis conocimientos en la industria. [cite: 11] [cite_start]Como una persona asertiva que aprende rápido, prospero en entornos de equipo y priorizo la comunicación efectiva para lograr metas colectivas. [cite: 12]
+Futuro desarrollador multiplataforma con formación técnica centrada en el ciclo de vida del software. Durante mi formación he trabajado con tecnologías como Java, Kotlin y entornos de gestión de bases de datos, enfocándome en la creación de interfaces intuitivas y código limpio. Busco mi primera oportunidad laboral para aplicar mis conocimientos técnicos, enfrentarme a retos reales y contribuir al éxito de proyectos innovadores
 
 ---
 
 ## EXPERIENCIA PROFESIONAL
 
 
+* **Camarero** | La Esquinita de Mari (Granada) | 6 meses
+* **Ayudante de Cocina** | Restaurante El Portugués (Murcia)  | 3 meses
+    * Tareas: Friegaplatos, freidora, preelaboración y ensaladas.
+* **Ayudante de Cocina** | Restaurante Acapulco (Murcia)  | 1 meses
+    * Tareas: Plancha, friegaplatos y ensaladas.
+* **Peon agricola** | Hermanos Hortofructicolas Torres (Murcia) | campañas de verano
+
 ## PROYECTOS
 
 ### Desarrollador Principal | "Entre Planos" (Desarrollo Independiente de Videojuegos)
-[cite_start]*2025 - Presente* [cite: 14]
-* [cite_start]Actualmente desarrollando un juego multiplataforma utilizando Unity. [cite: 15]
-* [cite_start]Gestión del ciclo de vida completo del desarrollo, desde la lógica y mecánicas del juego hasta el diseño de la interfaz. [cite: 16]
-* [cite_start]Resolución de desafíos técnicos complejos relacionados con física $2D/3D$ y gestión de estados. [cite: 17]
+*2025 - Presente* 
+* Actualmente desarrollando un juego multiplataforma utilizando Unity.
+* Gestión del ciclo de vida completo del desarrollo, desde la lógica y mecánicas del juego hasta el diseño de la interfaz. 
+* Resolución de desafíos técnicos complejos relacionados con física $2D/3D$ y gestión de estados. 
 
 ### Programador Unity | Granada Game Jam 2025 - Proyecto: "Nicole"
-[cite_start]*2025* [cite: 18]
-* [cite_start]Colaboración en un equipo multidisciplinar para diseñar y desarrollar un prototipo jugable en un límite de 48 horas. [cite: 19]
-* [cite_start]Responsable de la programación del núcleo del juego y la lógica utilizando Unity y C#. [cite: 20]
-* [cite_start]Adaptación rápida a restricciones técnicas y trabajo bajo presión para cumplir con el plazo de entrega final. [cite: 21]
+*2025* 
+* Colaboración en un equipo multidisciplinar para diseñar y desarrollar un prototipo jugable en un límite de 48 horas. 
+* Responsable de la programación del núcleo del juego y la lógica utilizando Unity y C#.
+* Adaptación rápida a restricciones técnicas y trabajo bajo presión para cumplir con el plazo de entrega final. 
 
 ---
 
-## HABILIDADES Y TECNOLOGÍA
-* [cite_start]**Backend:** Java $11/17$, Spring Boot, Spring Data JPA, REST APIs. [cite: 23]
-* [cite_start]**Frontend:** HTML5, CSS3, JavaScript (Nociones de React/Vue). [cite: 23]
-* [cite_start]**Bases de Datos:** MySQL, PostgreSQL, MongoDB. [cite: 24]
-* [cite_start]**Herramientas y Metodologías:** Git, Docker, Agile (Scrum), Unit Testing (JUnit). [cite: 25]
-* [cite_start]**Otros Paradigmas:** Programación Funcional (Java Streams, Lambdas). [cite: 25]
+## Tecnologías y Habilidades
+
+* **Desarrollo Móvil:** Android Studio, **Kotlin**, XML, Firebase.
+* **Backend:** Java 11/17 (Spring Boot, Spring Data JPA, REST APIs), **Python**.
+* **Multiplataforma y Videojuegos:** **C# (Unity)**.
+* **Frontend:** HTML5, CSS3, JavaScript (Nociones de React/Vue).
+* **Bases de Datos:** MySQL, PostgreSQL, MongoDB.
+* **Herramientas y Metodologías:** Git, Docker, Agile (Scrum), Unit Testing (JUnit).
 
 ---
 
 ## EDUCACIÓN
 
 ### TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES MULTIPLATAFORMA (DAM)
-[cite_start]*New Digital Talent, Granada, 2024 - (En curso)* [cite: 27]
+*Centro de estudios superiores La Inmaculada, Granada, 2024 - (En curso)* 
+### TECNICO EN HOSTELERIA Y TURISMO (Grado Medio)
+*Centro de Hosteleria y Turismo, Cartagena, 2021 - 2023* 
 
-### TÉCNICO EN HOSTELERÍA Y TURISMO
-[cite_start]*Escuela de Hostelería y Turismo, Cartagena, 2021 - 2022* [cite: 29]
