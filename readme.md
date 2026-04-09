@@ -1,15 +1,7 @@
 # Adrian Egea Torres
 
-Software engineer and astronomer based in Morocco 🇲🇦
-
-[Email](mailto:simad3647@gmail.com) / [Medium](https://medium.com/@imadsaddik) / [LinkedIn](https://www.linkedin.com/in/imadsaddik/) / [GitHub](https://github.com/ImadSaddik) / [HuggingFace](https://huggingface.co/ImadSaddik) / [YouTube](https://www.youtube.com/@3CodeCampers)
-
-# [cite_start]ADRIAN EGEA [cite: 1]
-
-![Foto de Perfil](tu-foto.jpg)
-
 ## CONTACTO
-* [cite_start]**Teléfono:** +34 694453996 [cite: 3]
+* **Teléfono:** +34 694453996 [cite: 3]
 * [cite_start]**GitHub:** [the-chivo](https://github.com/the-chivo) [cite: 5]
 * [cite_start]**Correo:** adrianegeatorres@gmail.com [cite: 7]
 * [cite_start]**LinkedIn:** [adrian egea torres](https://www.linkedin.com/in/adrian-egea-torres) [cite: 9]
